@@ -1,0 +1,21 @@
+ <style>
+        .outer {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .inner {
+            width: 60%;
+        }
+
+        .loginForm {
+            margin: auto;
+        }
+
+        .loginhead {
+            text-align: center;
+        }
+    </style>
